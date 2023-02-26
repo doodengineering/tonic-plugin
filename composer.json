@@ -2,6 +2,7 @@
   "name": "doodengineering/tonic-plugin",
   "description": "A WordPress plugin boilerplate using the Tonic framework.",
   "type": "wordpress-plugin",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Plugin\\": "plugin/"
@@ -22,5 +23,4 @@
     "composer/composer": "^2.5",
     "doodengineering/tonic": "dev-main"
   }
-  "license": "MIT"
 }
