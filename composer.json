@@ -22,4 +22,5 @@
     "composer/composer": "^2.5",
     "doodengineering/tonic": "dev-main"
   }
+  "license": "MIT"
 }
