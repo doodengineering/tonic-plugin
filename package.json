@@ -29,7 +29,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "@doodengineering/gin": "github:doodengineering/gin",
+    "@doodengineering/tonicjs": "github:doodengineering/tonicjs",
     "webpack": "^5.75.0"
   }
 }
